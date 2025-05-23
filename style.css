@@ -56,19 +56,9 @@ input {
   font-size: medium;
 }
 
-button {
-  /* height: 2rem; */
-  display: inline;
-  padding: 0.3rem;
-  height: fit-content;
-  position: absolute;
-  right: 0.3rem;
-  border-radius: 0.3rem;
-}
-
-button:hover {
+/* button:hover {
   cursor: pointer;
-}
+} */
 
 /* ul {
   list-style-type: none;
